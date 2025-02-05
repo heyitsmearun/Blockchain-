@@ -1,1 +1,1 @@
-/Its a blockchain connectivity project/
+/It is a blockchain connectivity project/
